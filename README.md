@@ -25,3 +25,19 @@ This is an API tutorial for a workshop at "Code for DC's National Day of Civic H
 * **Two `.csv.` example output files. They are _slightly_ different:**
   - `spyder_foo.csv` is an output when running the `scheduled_API_code.py` from my Spyder IDE
   - `ipython_foo.csv` is the output when running the `ipython notebook` code.
+
+## Resources
+* Read more about APIs on this [Techcrunch post](http://techcrunch.com/2016/05/21/the-rise-of-apis/)
+**Tutorials**
+  * [Codecademy tutorials](https://www.codecademy.com/apis)
+  * [Automating the boring stuff](https://automatetheboringstuff.com/chapter14/) Scroll down to JSON and APIs section:
+**Tips**
+* [How to read response codes](http://www.restapitutorial.com/httpstatuscodes.html)
+* Always check the Terms of Use / Terms of Service
+
+**APIs you could play with**
+* [Weather data](http://openweathermap.org/api)
+* [Soundcloud](https://developers.soundcloud.com/docs/api/guide)
+* [FCC API that returns a full address when given a longitude and latitude](https://www.fcc.gov/general/census-block-conversions-api)
+* [WMATA transport data](https://developer.wmata.com/docs/services/)
+* [DC crime data](http://opendata.dc.gov/datasets/6eaf3e9713de44d3aa103622d51053b5_9?mapSize=map-normal_)
